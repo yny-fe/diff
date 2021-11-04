@@ -1,0 +1,15 @@
+src/config/release.ts   modifed 
+.prettierignore   added 
+src/config/dev.ts   modifed 
+src/config/test.ts   modifed 
+src/core/RouterManager/index.ts   modifed 
+src/core/utils/load.ts   modifed 
+src/custom/config/dev.ts   added 
+src/custom/config/release.ts   added 
+src/custom/config/test.ts   added 
+src/applications/mall/addressSwitch/default.ts   added 
+src/theme/global.scss   modifed 
+src/Store.ts   modifed 
+src/applications/mall/mixins/shoppingCart.ts   modifed 
+src/applications/common/sideCart/style/index.scss   modifed 
+src/applications/mall/addressSwitch/addressSwitch.vue   modifed 
